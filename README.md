@@ -21,7 +21,7 @@ yarn install // or npm install
 yarn start // npm run start
 ```
 
-Attention: In order to access data used on this project, you need to run BFF first, see [https://github.com/otaviomorcegao/challenge-bff](https://github.com/otaviomorcegao/challenge-bff)
+Attention: In order to access data used on this project, you need to run BFF first, see [https://github.com/otaviolbarbosa/challenge-bff](https://github.com/otaviolbarbosa/challenge-bff)
 
 In case your app doesn't open automatically, open [http://localhost:3000](http://localhost:3000) in your browser.
 
